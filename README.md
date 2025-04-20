@@ -14,13 +14,13 @@ The frontend (React ⚛️) provides a user-friendly interface to interact with 
 ### Frontend Interface 🖥️
 
 **Search page**
-![Frontend Screenshot Placeholder](images\i1.png)
+![Frontend Screenshot Placeholder](images/i1.png)
 
 **Agent Answer**
-![Backend Architecture Placeholder](images\i2.png)
+![Backend Architecture Placeholder](images/i2.png)
 
 **Sources used**
-![Research Output Example Placeholder](images\i3.png)
+![Research Output Example Placeholder](images/i3.png)
 
 ## Technologies Used 🛠️
 
